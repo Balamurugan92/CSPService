@@ -1,0 +1,16 @@
+{
+    "status": {
+        "status_code": "1001",
+        "status_desc": "file process success"
+    },
+    "failure_records": [
+        {
+            "reference": 167875,
+            "description": "Tickets from Erik de Vries"
+        },
+        {
+            "reference": 165102,
+            "description": "Tickets for Rik Theu"
+        }
+    ]
+}
